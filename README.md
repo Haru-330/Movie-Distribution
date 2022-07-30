@@ -33,7 +33,7 @@ Copyright © 2022 haru / 情報系大学生 All rights reserved.
 全て自作。  
 **グッバイ宣言PV再現**  
 グッバイ宣言のPVを参考にしました。 
-音無しのものとなります。
+音無しのものとなります。  
 **エンディング1　音あり**  
 音楽以外は自作。  
 音楽は、https://dova-s.jp/bgm/play14640.html を利用。  
