@@ -24,3 +24,22 @@ YouTube : https://www.youtube.com/channel/UCCW4XjQELr0Jzcj6Mo03Z_w
 ◆免責事項◆  
 このファイルおよびその内容については、いかなる保証もいたしません。  
 Copyright © 2022 haru / 情報系大学生 All rights reserved.
+### ファイル毎の説明
+*テレビ番組風テロップ～フリーフォントとAviUtlで再現したい～*    
+全て自作。(詳しくは、AviUtlファイル参照)
+*グリーンバック素材１*  
+全て自作。  
+*グリーンバック素材２*  
+全て自作
+*グッバイ宣言PV再現 音無し*  
+グッバイ宣言のPVを参考にした。
+*エンディング1　音あり*  
+音楽以外は自作。
+音楽は、https://dova-s.jp/bgm/play14640.html を利用。
+*チャンネル登録ボタン 日本語、英語ver. 音無し*  
+YouTubeの音と同じものを利用したい方は、https://otologic.jp/free/se/pc-mouse01.html の、PC マウス03のPC-Mouse03-01(L).mp3を利用してください。
+*エンディング2　音あり*  
+音楽以外は自作。
+音楽は、https://dova-s.jp/bgm/play2575.html を利用。
+*キヨさん風エンディング*  
+キヨさんのエンディングを参考にしました。
