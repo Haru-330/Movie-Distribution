@@ -44,6 +44,6 @@ YouTubeの音と同じものを利用したい方は、https://otologic.jp/free/
 音素材元：OtoLogic(https://otologic.jp/)  
 **エンディング2　音あり**  
 音楽以外は自作。  
-音楽は、https://dova-s.jp/bgm/play2575.html を利用。  
+BGM：GT-K（DOVA-SYNDROME） https://dova-s.jp/bgm/play2575.html を利用。  
 **キヨさん風エンディング**    
 キヨさんのエンディングを参考にしました。  
