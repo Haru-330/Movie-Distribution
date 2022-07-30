@@ -26,7 +26,7 @@ YouTube : https://www.youtube.com/channel/UCCW4XjQELr0Jzcj6Mo03Z_w
 Copyright © 2022 haru / 情報系大学生 All rights reserved.
 ### ファイル毎の説明
 **テレビ番組風テロップ～フリーフォントとAviUtlで再現したい～**    
-全て自作。(詳しくは、AviUtlファイル参照)
+全て自作。(詳しくは、AviUtlファイル参照)  
 **グリーンバック素材１**  
 全て自作。  
 **グリーンバック素材２**  
