@@ -41,7 +41,7 @@ Copyright © 2022 haru / 情報系大学生 All rights reserved.
 YouTubeの音と同じものを利用したい方は、https://otologic.jp/free/se/pc-mouse01.html の、PC マウス03のPC-Mouse03-01(L).mp3を利用してください。  
 **チャンネル登録ボタン(日本語)_音あり,チャンネル登録ボタン(英語)_音あり**   
 音ありのものとなります。  
-音素材元：OtoLogic(https://otologic.jp/)
+音素材元：OtoLogic(https://otologic.jp/)  
 **エンディング2　音あり**  
 音楽以外は自作。  
 音楽は、https://dova-s.jp/bgm/play2575.html を利用。  
