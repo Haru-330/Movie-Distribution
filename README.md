@@ -7,8 +7,7 @@ AviUtlのPFファイルや、mp4素材のファイルです。
 ◆配付条件◆  
 ×禁止事項  
 ・二次配布・自作発言  
-　配布したい場合は、https://blog-it.hatenablog.com/entry/movie/AviUtl/PF  
- のURLを貼って誘導するようにしてください。  
+　配布したい場合は、https://blog-it.hatenablog.com/entry/movie/AviUtl/PF のURLを貼って誘導するようにしてください。  
 ※直接リンクはNG！  
 ・再現のものは、本家様の迷惑になる行為  
 ◯OK  
