@@ -49,3 +49,8 @@ YouTubeの音と同じものを利用したい方は、https://otologic.jp/free/
 BGM：GT-K（DOVA-SYNDROME） https://dova-s.jp/bgm/play2575.html を利用。  
 **キヨさん風エンディング**    
 キヨさんのエンディングを参考にしました。  
+**テキストアニメーション①配布用.aup**
+全て自作。  
+使用スクリプトは、以下のとおりです。  
+・輪郭追跡（表示）@輪郭追跡／ティム  
+・イージング（15番）／Undofish  
