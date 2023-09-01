@@ -56,5 +56,6 @@ BGM：GT-K（DOVA-SYNDROME） https://dova-s.jp/bgm/play2575.html を利用。
 ・イージング（15番）／Undofish  
 **水滴配布用.aup**
 https://www.youtube.com/watch?v=KbTMxieDqIs の動画を参考にしながら作成。
-YouTubeで用いている動画は、Pixabayよりダウンロードしました。NewYork.mp4で保存していました。（記憶が定かじゃないです）
+YouTubeで用いている動画は、Pixabayよりダウンロードしました。
+NewYork.mp4で保存していました。
 また、音声も、だいぶ前に使ったものなので、どこからダウンロードしたか忘れてしまいました。
