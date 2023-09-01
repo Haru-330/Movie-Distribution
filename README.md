@@ -56,10 +56,8 @@ BGM：GT-K（DOVA-SYNDROME） https://dova-s.jp/bgm/play2575.html を利用。
 ・輪郭追跡（表示）@輪郭追跡／ティム  
 ・イージング（15番）／Undofish  
 **水滴配布用.aup**
+
 https://www.youtube.com/watch?v=KbTMxieDqIs の動画を参考にしながら作成。
-
 YouTubeで用いている動画は、Pixabayよりダウンロードしました。
-
 NewYork.mp4で保存していました。
-
 また、音声も、だいぶ前に使ったものなので、どこからダウンロードしたか忘れてしまいました。
